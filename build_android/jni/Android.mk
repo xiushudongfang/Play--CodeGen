@@ -1,6 +1,6 @@
 LOCAL_PATH := $(call my-dir)
 
-FRAMEWORK_PATH := $(realpath $(LOCAL_PATH))/../../../Framework
+FRAMEWORK_PATH := $(realpath $(LOCAL_PATH))/../../../Play--Framework
 
 include $(CLEAR_VARS)
 
